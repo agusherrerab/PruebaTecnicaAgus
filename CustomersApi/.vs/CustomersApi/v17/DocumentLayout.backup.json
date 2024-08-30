@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agush\\repos\\CustomersApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\casosdeuso\\updatecustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\casosdeuso\\updatecustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\repositories\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\repositories\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|c:\\users\\agush\\repos\\customersapi\\customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E1002B9-F066-460F-9265-AAD884AE7BCE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 166,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCustomerUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "RelativeToolTip": "CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:15:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CustomersApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\appsettings.Development.json",
+              "RelativeToolTip": "CustomersApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T23:03:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Program.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Program.cs",
+              "RelativeToolTip": "CustomersApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:32:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "RelativeToolTip": "CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:38:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Dtos\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Dtos\\CreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Dtos\\CreateCustomerDto.cs",
+              "RelativeToolTip": "CustomersApi\\Dtos\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:21:28.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "CustomersApi\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:14:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersApi",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
+              "RelativeDocumentMoniker": "CustomersApi\\CustomersApi.csproj",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
+              "RelativeToolTip": "CustomersApi\\CustomersApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T22:13:13.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\agush\\repos\\CustomersApi\\CustomersApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomersApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:11:37.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
